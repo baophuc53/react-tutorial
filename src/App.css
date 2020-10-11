@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.bold-btn{
+  font-weight: bold;
+}
+
+.reverse-div{
+  height: fit-content;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.fill-square{
+  background-color: yellow;
+}
